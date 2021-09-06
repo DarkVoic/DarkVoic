@@ -8,23 +8,23 @@ I really enjoy talking, exchanging ideas, sharing knowledge and enriching the in
 
 - Java, C#/.Net, Nodejs
 - HTML, CSS, Javascript
-> Bootstrap, REST API, MVC
-. Insomnia, Git
-. MySQL
+- Bootstrap, REST API, MVC
+- Insomnia, Git
+- MySQL
 
 ### Some small points about me:
 
-. I live in Lagoa Santa, Minas Gerais.
-. Worked with Junior Systems Analyst at Alianca Energia S.A.
-. Streamer on Twitch Platform, with development and programming content, as well as gameplay of several games. 
+- I live in Lagoa Santa, Minas Gerais.
+- Worked with Junior Systems Analyst at Alianca Energia S.A.
+- Streamer on Twitch Platform, with development and programming content, as well as gameplay of several games. 
 
 ### Follow me on the networks below:
 
-https://www.twitch.tv/darkvoicz
-https://twitter.com/matheuscrca
-https://www.linkedin.com/in/matheus-santos-soares-86125594/
-https://www.instagram.com/matheuscrca/
-https://www.facebook.com/matheus.santossoaresjesus
+> https://www.twitch.tv/darkvoicz
+> https://twitter.com/matheuscrca
+> https://www.linkedin.com/in/matheus-santos-soares-86125594/
+> https://www.instagram.com/matheuscrca/
+> https://www.facebook.com/matheus.santossoaresjesus
 <!--
 **DarkVoic/DarkVoic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
