@@ -6,8 +6,9 @@ I really enjoy talking, exchanging ideas, sharing knowledge and enriching the in
 
 ### Knowledge of Technologies and Languages: 👨‍💻
 
+- Outsystems (main)
 - Java, C#/.Net, Nodejs
-- HTML, CSS, Javascript
+- HTML, CSS, Javascript, React, React-Native
 - Bootstrap, REST API, MVC
 - Insomnia, Git
 - MySQL
